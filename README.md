@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OMAR
-- 👀 Currently building Health-Tech Platform.
-- 📫 mohammad@duck.com
+- 👀 Currently diving into depth of Tech.
+- 📫 mailboxofomar@gmail.com
 
 <!---
 CodedByOmar/CodedByOmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
